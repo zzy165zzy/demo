@@ -7,3 +7,4 @@ hello Git!!!!!
 hello Git main testing
 hello Git hot-fix testing
 hello
+你好！
